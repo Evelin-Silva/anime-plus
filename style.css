@@ -27,6 +27,10 @@ header {
   justify-content: space-between;
 }
 
+#menu {
+  cursor: pointer;
+}
+
 .info {
   margin-top: 5rem;
 }
@@ -156,14 +160,9 @@ h2 {
     url(/img/Jujutsu\ Kaisen.png);
 }
 
-#komi {
-  background-image: linear-gradient(154.23deg, #00000050 -58.45%, #00000050 -58.45%), url(/img/Komi\ Can\'t\ Communicate.png);
-}
-
 #bubble,
 #howl,
-#jujutsu,
-#komi {
+#jujutsu {
   margin: 2rem;
   background-size: cover;
 }
