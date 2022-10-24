@@ -11,15 +11,10 @@
 
 body {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),
-    url(/img/Background\ One\ Piece.png);
+    url(https://blogger.googleusercontent.com/img/a/AVvXsEgIQhhgipg_e0q29PNKxIbL9PKJGzo7sqGkyFgmAwBP_6IEDmRyLvv5RxYEvFYA2Ct4O14wrtm8cLr3xOEe58kA3xqhYImyI6idJoFjwh3TXXQ7FyFjOzmOYk8V2QeSlPX39An7vpScjQC9MYpMSAaBTcLuwzGWWUucPuWdY-BPkSENOdjy1pc0VfsH=s16000);
   background-size: cover;
   font-family: 'Montserrat', sans-serif;
   overflow: hidden;
-}
-
-#logo {
-  height: 10rem;
-  width: 10rem;
 }
 
 header {
